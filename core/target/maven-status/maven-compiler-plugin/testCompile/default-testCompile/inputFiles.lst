@@ -1,0 +1,10 @@
+/home/ubuntu/maven1/core/src/test/java/maven1/general/common/impl/config/TestWebSecurityConfig.java
+/home/ubuntu/maven1/core/src/test/java/maven1/general/common/base/test/AccessControlSchemaXmlValidationTest.java
+/home/ubuntu/maven1/core/src/test/java/maven1/general/common/base/test/TestUtil.java
+/home/ubuntu/maven1/core/src/test/java/maven1/general/common/base/OaspPackageCheckTest.java
+/home/ubuntu/maven1/core/src/test/java/maven1/general/common/base/test/ApplicationSubsystemTest.java
+/home/ubuntu/maven1/core/src/test/java/maven1/general/service/base/test/RestServiceTest.java
+/home/ubuntu/maven1/core/src/test/java/maven1/general/common/base/PermissionCheckTest.java
+/home/ubuntu/maven1/core/src/test/java/maven1/general/service/impl/rest/SecurityRestServiceImplTest.java
+/home/ubuntu/maven1/core/src/test/java/maven1/general/common/base/test/DbTestHelper.java
+/home/ubuntu/maven1/core/src/test/java/maven1/general/common/base/test/ApplicationComponentTest.java

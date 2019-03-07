@@ -1,0 +1,11 @@
+maven1/general/service/impl/rest/SecurityRestServiceImplTest.class
+maven1/general/common/base/test/ApplicationComponentTest.class
+maven1/general/common/base/PermissionCheckTest$1.class
+maven1/general/common/impl/config/TestWebSecurityConfig.class
+maven1/general/common/base/test/ApplicationSubsystemTest.class
+maven1/general/common/base/test/DbTestHelper.class
+maven1/general/common/base/test/AccessControlSchemaXmlValidationTest.class
+maven1/general/common/base/OaspPackageCheckTest.class
+maven1/general/common/base/test/TestUtil.class
+maven1/general/service/base/test/RestServiceTest.class
+maven1/general/common/base/PermissionCheckTest.class

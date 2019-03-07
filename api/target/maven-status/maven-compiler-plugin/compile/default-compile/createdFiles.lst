@@ -1,0 +1,11 @@
+maven1/general/common/api/exception/ApplicationBusinessException.class
+maven1/general/service/api/rest/SecurityRestService.class
+maven1/general/common/api/BinaryObject.class
+maven1/general/common/api/ApplicationEntity.class
+maven1/general/common/api/exception/ApplicationTechnicalException.class
+maven1/general/logic/api/to/BinaryObjectEto.class
+maven1/general/common/api/to/UserProfileTo.class
+maven1/general/common/api/NlsBundleApplicationRoot.class
+maven1/general/common/api/exception/NoActiveUserException.class
+maven1/general/common/api/exception/ApplicationException.class
+maven1/general/common/api/UserProfile.class
